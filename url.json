@@ -1,11 +1,15 @@
 {
     "pic": {
-      "all": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/all.csv",
-      "fjht": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/fjht.csv",
-      "whitebackground": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/whitebackground.csv",
-      "xiezhen": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/xiezhen.csv",
-      "CG": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/CG.csv",
-      "Pzhan": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/Pzhan.csv"  
+        "all": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/all.csv",
+        "fjht": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/fjht.csv",
+        "whitebackground": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/whitebackground.csv",
+        "xiezhen": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/xiezhen.csv",
+        "CG": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/CG.csv",
+        "Pzhan": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/Pzhan.csv",
+        "donghua": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/donghua.csv",
+        "fate": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/fate.csv",
+        "ys": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/ys.csv",
+        "kong": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/kong.csv",
     },
     "video": {
       "all": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/video/all.csv"
