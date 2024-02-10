@@ -3,9 +3,9 @@
       "all": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/all.csv",
       "fjht": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/fjht.csv",
       "whitebackground": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/whitebackground.csv",
-      "写真": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/xiezhen.csv",
+      "xiezhen": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/xiezhen.csv",
       "CG": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/CG.csv",
-      "P站": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/Pzhan.csv"  
+      "Pzhan": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/Pzhan.csv"  
     },
     "video": {
       "all": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/video/all.csv"
