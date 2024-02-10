@@ -9,10 +9,4 @@
 | 图片 | 风景横图 | [https://random-api.woodchen.ink/pic/fjht](https://random-api.woodchen.ink/pic/fjht) |
 | 视频 | 所有 | [https://random-api.woodchen.ink/video/all](https://random-api.woodchen.ink/video/all) |
 
-
-## 部署、更新和原理
-
-请见我的博客：[https://woodchen.ink/archives/1705367469203](https://woodchen.ink/archives/1705367469203)
-
-**2032年前可用**
                 
