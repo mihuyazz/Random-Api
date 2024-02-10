@@ -10,6 +10,7 @@
         "fate": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/fate.csv",
         "ys": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/ys.csv",
         "kong": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/kong.csv",
+        "fengjing": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/fengjing.csv"
     },
     "video": {
       "all": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/video/all.csv"
