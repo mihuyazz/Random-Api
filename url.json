@@ -2,9 +2,10 @@
     "pic": {
       "all": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/all.csv",
       "fjht": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/fjht.csv",
-      "whitebackground": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/whitebackground.csv"
+      "whitebackground": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/whitebackground.csv",
       "写真": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/写真.csv",
-      "CG": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/CG.csv"
+      "CG": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/CG.csv",
+      "P站": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/pic/P站.csv"  
     },
     "video": {
       "all": "https://raw.githubusercontent.com/mihuyazz/Random-Api/main/url/video/all.csv"
